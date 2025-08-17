@@ -1,5 +1,5 @@
 {
-    "name":"mintea's various items",
+    "name":"mintea's vpm repo",
     "id":"pw.mintea.vpm",
     "url":"https://minteeaa.github.io/vpm/index.json",
     "author":{
@@ -12,7 +12,7 @@
         "url":"http://github.com/minteeaa/vpm",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
+    "bannerUrl":"",
     "githubRepos":[
         "minteeaa/peppermint"
     ]
